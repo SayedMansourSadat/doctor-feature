@@ -2,7 +2,11 @@
 import React from "react";
 
 const DoctorDashboard = () => {
-  return <h1>Doctor is not in ddddddddthe call Dashboard</h1>;
+  return (
+    <div>
+      <h2>Walid jan </h2>
+    </div>
+  );
 };
 
 export default DoctorDashboard;
